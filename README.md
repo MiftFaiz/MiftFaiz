@@ -22,3 +22,5 @@
 [![](https://visitcount.itsvg.in/api?id=MiftFaiz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![](https://github.com/MiftFaiz/MiftFaiz/blob/main/neko.gif) ![](https://github.com/MiftFaiz/MiftFaiz/blob/main/ghibli.gif)  ![](https://github.com/MiftFaiz/MiftFaiz/blob/main/nayeon.gif) 
