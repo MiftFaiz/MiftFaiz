@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Wed In<br>🌱 I’m currently learning Python, Dash, Statistics<br>💬 Ask me about C, JS, Python, Laravel, CI, Vue, etc.<br>⚡ Fun fact - I lick it, it's mine 
+🔭 I’m currently working on Astech<br>🌱 I’m currently learning Python, Dash, Statistics<br>💬 Ask me about C, JS, Python, Laravel, CI, Vue, etc.<br>⚡ Fun fact - I like it, it's mine 
 
 
 ## 🌐 Socials:
